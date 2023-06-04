@@ -46,9 +46,6 @@ To run the game on your local machine, follow these steps:
 
 Contributions to the game are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, please create an issue in the repository or submit a pull request.
 
-## License
-
-The game is released under the [MIT License](LICENSE). Feel free to modify and distribute it according to the terms of the license.
 
 ## Acknowledgments
 
