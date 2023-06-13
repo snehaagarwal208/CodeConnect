@@ -3,7 +3,6 @@
 This is a memory game implemented using Java Swing, where the objective is to match the correct Java code to its corresponding output. The game tests your memory and knowledge of Java programming language. It provides an interactive and entertaining way to learn and reinforce your understanding of Java code snippets and their expected outputs.
 
 ## How to Play
-
 1. Launch the game by running the Java program.
 2. The game board will be displayed, consisting of a grid of cards. Each card represents a Java code snippet.
 3. Click on any card to reveal its content. You will see a Java code snippet and a blank space for the expected output.
