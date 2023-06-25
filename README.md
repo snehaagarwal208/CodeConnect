@@ -14,7 +14,6 @@ This is a memory game implemented using Java Swing, where the objective is to ma
 
 ## Game Features
 
-
 - **Multiple Difficulty Levels:** The game offers different difficulty levels, ranging from easy to challenging. The difficulty level determines the number of code-output pairs to match and the complexity of the code snippets.
 - **Score Tracking:** The game keeps track of your score by counting the number of correct matches made. Try to achieve the highest score possible!
 - **Timer:** A timer is displayed to track the time you take to complete the game. Challenge yourself to complete it in the shortest time!
