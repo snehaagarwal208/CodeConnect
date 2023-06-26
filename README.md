@@ -20,7 +20,6 @@ This is a memory game implemented using Java Swing, where the objective is to ma
 - **High Scores:** The game keeps a record of the highest scores achieved by players. You can aim to beat the existing high scores and establish your name on the leaderboard.
 
 ## Installation
-
 To run the game on your local machine, follow these steps:
 
 1. Ensure that you have Java Development Kit (JDK) installed on your system.
